@@ -37,9 +37,10 @@ git clone https://github.com/Feliciaangel21/airbnb-nyc-analysis.git
 
 ## Dataset used
 AB_NYC_2019.csv
+
 Contains listings data for NYC in 2019 with information like neighborhood, price, minimum nights, and availability.
 
---
+---
 
 ## Live Demo
 **Interactive Tableau Dashboard:**  
